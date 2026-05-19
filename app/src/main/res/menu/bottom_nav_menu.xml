@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/nav_timeline"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="Timeline" />
+    <item
+        android:id="@+id/nav_maps"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="Nearby" />
+    <item
+        android:id="@+id/nav_leaderboard"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Leaderboard" />
+</menu>
